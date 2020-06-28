@@ -1,0 +1,51 @@
+body{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding-top: 20px;
+background-image: url('cal.png');
+   
+}
+
+   
+
+.hed{
+    text-align: center;
+   color: rgb(20, 216, 223);
+}
+/* #container{
+    background-image: url(img.jpg);
+    Background-size : cover ;
+} */
+
+
+.MAIN{
+    border: 5px solid lightseagreen;
+    width: 250px;
+    margin: auto;
+}
+.result{
+    color: #fff;
+    background-color: black;
+    border-radius: 10px;
+    text-align: right;
+    margin-bottom: 10px;
+    margin-top: 5px;
+    height: 50px;  
+    width: 97%;  
+}
+button{
+    margin-top: 10px;
+    padding-top: 5px;
+    background-color: black;
+    color: white;
+    width: 50px;
+   cursor: pointer;
+  border-radius: 50%;
+   border-width: 0px;
+   font-weight: bold;
+font-size: 15px;
+margin: 3px;
+border:  1px solid black;
+opacity: 0.9;
+}
+
+
